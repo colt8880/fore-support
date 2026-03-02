@@ -14,3 +14,9 @@
 
   **Q: Is the game free?**
   A: Yes, completely free with no ads or in-app purchases.
+
+# Privacy Policy                                                
+
+  Fore! Mini Golf collects anonymous gameplay analytics (such as levels played and scores) to improve the game. No personal information is collected or shared. No account is required to play.
+
+  Last updated: March 2, 2026
